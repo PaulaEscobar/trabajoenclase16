@@ -1,0 +1,25 @@
+{
+  "name": "cactus",
+  "version": "1.0.0",
+  "description": "aplicacion con express para exponer informacion en la web ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulaEscobar/trabajoenclase16.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "paula, valeria, lucio, nazareno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulaEscobar/trabajoenclase16/issues"
+  },
+  "homepage": "https://github.com/PaulaEscobar/trabajoenclase16#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
